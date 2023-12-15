@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CLIENT\\source\\repos\\FacturationGroupe1\\FacturationGroupe1\\FacturationGroupe1.csproj": {}
+    "C:\\Users\\USER\\Documents\\FacturationGroupe1\\FacturationGroupe1\\FacturationGroupe1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CLIENT\\source\\repos\\FacturationGroupe1\\FacturationGroupe1\\FacturationGroupe1.csproj": {
+    "C:\\Users\\USER\\Documents\\FacturationGroupe1\\FacturationGroupe1\\FacturationGroupe1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CLIENT\\source\\repos\\FacturationGroupe1\\FacturationGroupe1\\FacturationGroupe1.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\FacturationGroupe1\\FacturationGroupe1\\FacturationGroupe1.csproj",
         "projectName": "FacturationGroupe1",
-        "projectPath": "C:\\Users\\CLIENT\\source\\repos\\FacturationGroupe1\\FacturationGroupe1\\FacturationGroupe1.csproj",
-        "packagesPath": "C:\\Users\\CLIENT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CLIENT\\source\\repos\\FacturationGroupe1\\FacturationGroupe1\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Documents\\FacturationGroupe1\\FacturationGroupe1\\FacturationGroupe1.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\FacturationGroupe1\\FacturationGroupe1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\CLIENT\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0-windows"
