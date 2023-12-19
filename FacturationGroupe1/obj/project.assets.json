@@ -1127,23 +1127,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {},
+    "C:\\Users\\hp\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Documents\\FacturationGroupe1\\FacturationGroupe1\\FacturationGroupe1.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\FacturationGroupe1\\FacturationGroupe1\\FacturationGroupe1.csproj",
       "projectName": "FacturationGroupe1",
-      "projectPath": "C:\\Users\\USER\\Documents\\FacturationGroupe1\\FacturationGroupe1\\FacturationGroupe1.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Documents\\FacturationGroupe1\\FacturationGroupe1\\obj\\",
+      "projectPath": "C:\\Users\\hp\\Desktop\\FacturationGroupe1\\FacturationGroupe1\\FacturationGroupe1.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\FacturationGroupe1\\FacturationGroupe1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
